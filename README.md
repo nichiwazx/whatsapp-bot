@@ -1,5 +1,5 @@
-# A187 ID
-BOT WHATSAPP HP Aris187 ID
+NICHIWA ZX
+BOT WHATSAPP HP NICHIWA ZX
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -17,7 +17,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/aris187id/whatsapp-bot
+> git clone https://github.com/nichiwazx/whatsapp-bot
 > cd whatsapp-bot
 > bash install.sh
 > node index.js
@@ -26,8 +26,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| A187 ID BOT       |                Feature           |
-| :-----------: | :--------------------------------: |
+| NICHIWA ZX     |                Feature           |
+| :-----------:  | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
 |       ✅       | Pantun                           |
